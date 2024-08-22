@@ -12,7 +12,7 @@ Aa method is a block of code which only runs when it is called. You can pass dat
 An array in JavaScript is a type of global object used to store data. Arrays can store multiple values in a single variable, which can condense and organize our code
 
 ## We have 18 methods in array
-### 1 ) What is the push in array
+### 1 ) What is the push() in array
 The push() method adds one or moreelements to the end of an array and returns the new length of the array
 
 Example :
@@ -21,7 +21,7 @@ Example :
      let add = arr.push(true, 4, 5);
      console.log(add); // 6
      console.log(arr); // [ 1, 2, "hello", true, 4, 5 ]
-### 2 ) What is the pop in array
+### 2 ) What is the pop() in array
 The pop() method removes the last element from an array and returns that element. This method change the length of the array
 
 Example : 
@@ -29,7 +29,7 @@ Example :
      let arr = ["a", "b", "c", "d", "e"];
      console.log(arr.pop()); // e
      console.log(arr); // [ "a", "b", "c", "d"]
-### 3 ) What is the unshift in array
+### 3 ) What is the unshift() in array
 The unshift method adds one or more elements to the beginning of an array and returns the new length of the array
 
 Example : 
@@ -37,7 +37,7 @@ Example :
     let arr = [3, 4, 5]
     console.log(arr.unshift(1, 2)); // 5
     console.log(arr); // [ 1, 2, 3, 4, 5]
-### 4 ) What is the shift in array
+### 4 ) What is the shift() in array
 The shift() method removes the first element from an array and returns that element. This method changes the length of the array
 
 Example : 
