@@ -92,5 +92,5 @@ Example :
 
 ------------------------------------------------------------
 
-                 The end of lecture 5
-                   glat to see you
+                                                                    The end of lecture 5
+                                                                      glat to see you
